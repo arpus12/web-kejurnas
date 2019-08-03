@@ -143,4 +143,10 @@ class Admin extends CI_Controller
         $writer->save('php://output');
         exit;
     }
+
+
+    public function report()
+    {
+        //koding
+    }
 }
