@@ -154,7 +154,7 @@ class Admin extends CI_Controller
         // notif here
     }
 
-    public function bismillah () {
+    public function alhamdulillah () {
         $basmalah = 'bismillah';
     }
 }
