@@ -149,4 +149,12 @@ class Admin extends CI_Controller
     {
         //koding
     }
+
+    public function notificationPopup() {
+        // notif here
+    }
+
+    public function jancok () {
+        $jancok = 'jancok kon';
+    }
 }
